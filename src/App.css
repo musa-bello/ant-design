@@ -1,0 +1,82 @@
+@import '~antd/dist/antd.css';
+
+
+.App {
+  background: aliceblue;
+  height: 100%;
+}
+
+Table{
+  background: aliceblue;
+}
+
+.left{
+  padding: 3rem;
+}
+
+.right-section, .input-section{
+  padding: 3rem 5rem 3rem 6rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.NumberOutlined{
+  background: #40a9ff;
+  width: 70px;
+  height: 50px;
+ 
+  color: white;
+  font-size: 2.2rem;
+}
+
+.input-card{
+  border-radius: .5rem;
+  width: 28rem;
+}
+
+.adjust{
+  margin-top: -5rem;
+}
+
+.cancel, .title{
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-end;
+  padding-top: 2rem;
+}
+
+.title{
+  justify-content: flex-start;
+  padding-bottom: 2rem;
+}
+
+.text{
+  margin-top: -3rem;
+  margin-left: 5rem;
+}
+
+.mini-text{
+  margin-top: -1rem;
+  margin-left: 5rem;
+}
+
+
+.button-text{
+  color: white;
+}
+
+.button{
+  margin-left: 1rem;
+  padding-left: 10%;
+}
+
+.button:nth-child(1){
+  background: ghostwhite;
+  padding:0 40px;
+}
+
+.button:nth-child(2){
+  background: #39bda4;
+  padding:0 40px;
+}
