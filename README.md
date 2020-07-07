@@ -3,7 +3,7 @@
 Mock up conversion using Ant Design UI library
 
 <p align="center">
-  <img src="./screenshot.png" alt='Screenshot'>
+  <img src="./screenshot.PNG" alt='Screenshot'>
 </p>
 
 ## Development
